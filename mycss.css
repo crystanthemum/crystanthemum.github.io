@@ -1,0 +1,46 @@
+.mymargin{
+    margin: 30px;
+}
+
+.mypadd{
+    padding: 60px;  
+}
+
+.smallpad{
+    padding: 40px;
+}
+
+.h1{
+    font-family: 'Reem Kufi', sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: 'Reem Kufi', sans-serif;
+}
+
+.nav.navbar-brand {
+    color:black;
+    
+}
+h1{
+    font-family: 'Reem Kufi', sans-serif;
+}
+h2{
+    font-family: 'Reem Kufi', sans-serif;
+    text-align: center;
+    color: black;
+}
+td {
+    text-align: center;
+    vertical-align: middle;
+  }
+
+th{
+    text-align: center;
+    vertical-align: middle; 
+}
+
+.navbar-nav-right{
+    float: right;
+}
